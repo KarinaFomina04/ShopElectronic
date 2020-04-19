@@ -1,0 +1,153 @@
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cache
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.xml
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.input.cache
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.output.cache
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorCoreGenerate.cache
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Electronics\List.cshtml.g.cs
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Json.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
+D:\Сурс Сергей\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\dbsettings.json
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\dbsettings.json
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Json.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Surs\ShopElectronic\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.input.cache
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.output.cache
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorCoreGenerate.cache
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Electronics\List.cshtml.g.cs
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cache
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.xml
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllElectronics.cshtml.g.cs
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\Surs\ShopElectronic\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs

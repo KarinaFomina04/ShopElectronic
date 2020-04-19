@@ -1,0 +1,16 @@
+﻿using Shop.Data.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Shop.Data.Interfaces
+{
+    public interface IAllElectronics
+    {
+        IEnumerable<Electronic> Electronics { get; }
+        IEnumerable<Electronic> getFavElectronics { get; }
+        Electronic GetObjectElectronic(int electronicId);
+    }
+
+}

@@ -1,0 +1,11 @@
+﻿
+    <h1>Вся электроника</h1>
+    <h3>@Model.currCategory</h3>
+    <div class="row mt-5 mb-2">
+        @{
+            foreach (Electronic electronic in Model.allElectronics)
+            {
+                @Html.Partial("AllElectronics", electronic)
+            }
+    }
+    </div>

@@ -1,0 +1,12 @@
+﻿@model HomeViewModel
+
+
+    <h1>Лучшие смартфоны</h1>
+<div class="row mt-5 mb-2">
+    @{
+        foreach (Electronic electronic in Model.favElectronics)
+        {
+            @Html.Partial("AllElectronics", electronic)
+        }
+    }
+</div>
